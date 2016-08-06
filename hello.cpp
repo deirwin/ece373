@@ -6,5 +6,6 @@ int main()
     int i = 0;
     i++;
     std::cout << i;
+    j++;
     return 0;
 }
