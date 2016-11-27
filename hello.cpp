@@ -2,10 +2,9 @@
 
 int main()
 {
-    std::cout << "Hello, world!\n";
+    std::cout << "Hello, world!";
     int i = 0;
     i++;
     std::cout << i;
-    j++;
     return 0;
 }
